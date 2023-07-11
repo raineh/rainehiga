@@ -1,6 +1,6 @@
 ---
 title: "Raine Higa: Actor, Theatre Maker, Photographer"
-image: images/closeProf.JPEG
+image: images/profile.PNG
 about:
   template: trestles
   links:
@@ -15,15 +15,27 @@ about:
       url: "mailto:raine.higa@gmail.com"
     - text: Resume
       icon: file-earmark-pdf-fill
-      url: "files/ActingResume7-8.pdf"
+      url: "resume.pdf"
 comments: false
 ---
 <!-- ::: {.column-page} -->
 
-## Raine 青龍 우주 比嘉 (Higa)
+## Bio
 
-My acting, directing, writing, and producing strives to inspire those both inside and outside of my communities to see the humanity in all, change hearts, and live authentically—through the most raw and real art form, live theatre.
+I’m a PhD candidate at SUNY-ESF, working on new tools to make complex, 
+broad-scale systems easier for humans to understand. 
+Right now, that means I split my time between predictive modeling
+(to [monitor forest carbon sequestration across New York State](https://cafri-ny.org/new-york-forest-carbon-assessment/), 
+[track the development of early-successional forests](https://doi.org/10.1080/01431161.2022.2155086), 
+and more) and visualization (including
+[using game engines as a GIS](https://www.researchgate.net/profile/Richard-Smardon/publication/355972101_VRSC_2021_Conference_Proceedings_VRSC_2021_Conference_Proceedings/links/6186bf0e07be5f31b74fa3c1/VRSC-2021-Conference-Proceedings-VRSC-2021-Conference-Proceedings.pdf#page=74) and
+[making it easier to make reproducible VR environments for research](https://doi.org/10.21105/joss.04388)).
+By training I'm either an ecologist (specializing in landscape and 
+translational ecology) or environmental scientist; professionally, I've worked
+as a data analyst, software engineer, and chicken farmer.
 
+
+<p></p>
 
 ## Selected Projects
 

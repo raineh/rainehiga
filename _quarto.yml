@@ -1,7 +1,7 @@
 project:
   type: website
   resources:
-    - files/resume.pdf
+    - files/ActingResume7-8.pdf
   output-dir: docs
 
 website:
@@ -13,9 +13,12 @@ website:
         href: index.qmd
       - text: "About"
         href: about.qmd
+      - text: "Reels"
+        href: reels.qmd
+	
 
 format:
   html:
-    theme: cosmo
+    theme: trestles
     css: styles.css
     toc: true
